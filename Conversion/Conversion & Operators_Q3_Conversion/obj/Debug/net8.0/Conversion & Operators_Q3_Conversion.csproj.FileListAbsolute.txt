@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\refint\Conversion & Operators_Q3_Conversion.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\ref\Conversion & Operators_Q3_Conversion.dll

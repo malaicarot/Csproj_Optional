@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\refint\Functions_Q2_DateTime.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\ref\Functions_Q2_DateTime.dll

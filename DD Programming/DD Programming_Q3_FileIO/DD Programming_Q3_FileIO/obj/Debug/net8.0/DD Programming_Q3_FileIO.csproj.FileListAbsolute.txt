@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\bin\Debug\net8.0\DD Programming_Q3_FileIO.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\bin\Debug\net8.0\DD Programming_Q3_FileIO.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\bin\Debug\net8.0\DD Programming_Q3_FileIO.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\bin\Debug\net8.0\DD Programming_Q3_FileIO.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\bin\Debug\net8.0\DD Programming_Q3_FileIO.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\DD Programming_Q3_FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\DD Programming_Q3_FileIO.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\DD Programming_Q3_FileIO.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\DD Programming_Q3_FileIO.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\DD Programming_Q3_FileIO.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\DD Programming_Q3_FileIO.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\refint\DD Programming_Q3_FileIO.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\DD Programming_Q3_FileIO.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\DD Programming_Q3_FileIO.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q3_FileIO\DD Programming_Q3_FileIO\obj\Debug\net8.0\ref\DD Programming_Q3_FileIO.dll

@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\DD Programming_Q2_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\DD Programming_Q2_Exceptions.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\DD Programming_Q2_Exceptions.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\DD Programming_Q2_Exceptions.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\DD Programming_Q2_Exceptions.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\bin\Debug\net8.0\DD Programming_Q2_Exceptions.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\bin\Debug\net8.0\DD Programming_Q2_Exceptions.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\bin\Debug\net8.0\DD Programming_Q2_Exceptions.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\bin\Debug\net8.0\DD Programming_Q2_Exceptions.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\bin\Debug\net8.0\DD Programming_Q2_Exceptions.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\DD Programming_Q2_Exceptions.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\refint\DD Programming_Q2_Exceptions.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\DD Programming_Q2_Exceptions.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\DD Programming_Q2_Exceptions.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q2_Exceptions\DD Programming_Q2_Exceptions\obj\Debug\net8.0\ref\DD Programming_Q2_Exceptions.dll

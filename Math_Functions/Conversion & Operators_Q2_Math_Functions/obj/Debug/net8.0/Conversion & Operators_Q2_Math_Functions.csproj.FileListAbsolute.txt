@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\refint\Conversion & Operators_Q2_Math_Functions.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\ref\Conversion & Operators_Q2_Math_Functions.dll

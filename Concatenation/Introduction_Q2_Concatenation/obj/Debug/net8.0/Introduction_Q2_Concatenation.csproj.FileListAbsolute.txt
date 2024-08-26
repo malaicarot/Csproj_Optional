@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\refint\Introduction_Q2_Concatenation.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\ref\Introduction_Q2_Concatenation.dll

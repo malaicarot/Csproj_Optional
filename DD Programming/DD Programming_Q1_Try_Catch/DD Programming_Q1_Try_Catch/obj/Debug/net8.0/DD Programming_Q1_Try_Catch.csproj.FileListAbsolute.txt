@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\refint\DD Programming_Q1_Try_Catch.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Optional\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\ref\DD Programming_Q1_Try_Catch.dll
